@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1015682305/thumb/7.jpg);
+    background-size: cover;
+}
+img {
+    width: 360px;
+    height: 300px;
+    margin-left: 40%;
+    line-height: underline
+}
