@@ -2,52 +2,26 @@ body {
     background-image: url(https://cdn-media-1.freecodecamp.org/images/1*oIC7jzfYZde2T_Oo6DpI2Q.png);
     background-size: cover;
 }
+
 img {
     width: 360px;
     height: 300px;
     margin-left: 40%;
-    line-height: underline;
-    margin-top: 0px
-    
-}
-h1 {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 40%;
+    line-height: underline
 }
 
-h2 {
-    width: 30px;
-    height: 30px;
-    margin-top: 0px;
-    padding: 14px 20px;
-    
+.photo1 {
+    margin-right: 100%;
 }
-h3 {
-    margin-left: 50%; 
-    margin-top: -43px;
-       
+.photo2 {
+    margin-left: 54%;
+    margin-top: -21% ;
 }
-p {
-    margin-top: -10px;
-    margin-left: 600%;
+.photo3 {
+    margin-right: 100%;
+    margin-top: 5%
 }
-div.a {
-    margin-left: 1250px; 
-    margin-top: -22px;
-}
-
-div.photo3 {
-    margin-right: 95%;
-}
-div#buto3 {
-    margin-left: 200px; 
-    margin-top: 2px;
-}
-div.photo4 {
-    margin-left: 50%;
-    margin-top: -325px;
-}
-div#buto4 {
-    margin-left: 1250px; 
-    margin-top: 2px;
+.photo4 {
+    margin-left: 54%;
+    margin-top: -21% ;
 }
