@@ -1,6 +1,7 @@
 body {
     background-image: url(https://cdn-media-1.freecodecamp.org/images/1*oIC7jzfYZde2T_Oo6DpI2Q.png);
     background-size: cover;
+    grid-area:heade;
 }
 
 img {
@@ -16,6 +17,7 @@ img {
 .photo2 {
     margin-left: 54%;
     margin-top: -21% ;
+    grid-area: right
 }
 .photo3 {
     margin-right: 100%;
@@ -24,4 +26,5 @@ img {
 .photo4 {
     margin-left: 54%;
     margin-top: -21% ;
+    grid-area: right
 }
