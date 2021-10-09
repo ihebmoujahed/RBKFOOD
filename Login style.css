@@ -1,7 +1,6 @@
 body {
     background-image: url(https://cdn-media-1.freecodecamp.org/images/1*oIC7jzfYZde2T_Oo6DpI2Q.png);
     background-size: cover;
-    
 }
 img {
     width: 360px;
@@ -9,27 +8,26 @@ img {
     margin-left: 40%;
     line-height: underline
 }
-h1 {
-    margin-left: 39%;
+
+
+
+
+
+h2 {
+    margin-left: 46%;
     padding: 10px 18px;
     font-family: "Lucida Console", "Courier New", monospace;
     margin-top: 0px;
     margin-top: 30px
 }
-form {
-    border: 5px solid rgba(255,255,255.3);
-    border-radius: 10px;
+
+div.Log {
+    border: 1px solid rgba(255,255,255.3);
+    border-radius: 5px;
     color: black;
     text-align:center;
     width: 199px;
-    height: 140px;
+    height: 100px;
     margin-left: 45%;
     margin-top: 100px;
 }
-      
-
-button {
-    
-    padding: 14px 20px;
-}
-
