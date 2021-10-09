@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/b4/3c/e5/b43ce5d1286e1701d5de53a1668d646c.gif);
+    background-size: cover;
+    
+}
+img {
+    width: 360px;
+    height: 300px;
+    margin-left: 40%;
+}

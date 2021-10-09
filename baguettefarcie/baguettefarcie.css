@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://cdn-media-1.freecodecamp.org/images/1*oIC7jzfYZde2T_Oo6DpI2Q.png);
+    background-size: cover;
+    
+}
+img {
+    width: 360px;
+    height: 300px;
+    margin-left: 40%;
+}
+h1 {
+    margin-left: 41%;
+    border: 5px;
+    border-style: double;
+    border-radius: 10px;
+    width: 260px;
+    height: 40px;
+    
+    
+}
