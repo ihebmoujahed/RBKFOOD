@@ -1,14 +1,19 @@
+html {
+    box-sizing: border-box;
+}
 body {
     background-image: url(https://cdn-media-1.freecodecamp.org/images/1*oIC7jzfYZde2T_Oo6DpI2Q.png);
     background-size: cover;
-    grid-area:heade;
-}
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0}
 
 img {
     width: 360px;
     height: 300px;
     margin-left: 40%;
-    line-height: underline
+    line-height: underline;
+    margin-top: -7%;
+
 }
 
 .photo1 {
@@ -27,4 +32,5 @@ img {
     margin-left: 54%;
     margin-top: -21% ;
     grid-area: right
+    
 }
