@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://cdn-media-1.freecodecamp.org/images/1*oIC7jzfYZde2T_Oo6DpI2Q.png);
+    background-size: cover;
+    
+}
+
+img {
+    width: 360px;
+    height: 300px;
+    margin-left: 40%;
+    line-height: underline
+}
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+  input[type=submit] {
+    background-color: #0d3ba7;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #0429aa;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #414b7ca3;
+    padding: 20px;
+  }
+  
