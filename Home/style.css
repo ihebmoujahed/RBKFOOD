@@ -27,7 +27,21 @@ img {
     }
    #bo1:hover {
         background-color: #3e8e41}
-        
+        #bo3 {
+          padding: 15px 25px;
+          font-size: 24px;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: #fff;
+          background-color: #000f0a;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 9px #999;
+          margin-left:41%;
+          margin-top: 90px;
+        }
+            
     
   
  #bo2:hover {
@@ -56,9 +70,9 @@ img {
           background-color: #3e8e41}
 
           #in1 {
-            margin-left: -10%;
+            margin-left: 40%;
             position: relative;
-            top: 62px;   
+            top: 54px;   
         width: 300px;
     height: 20px;     }
           
