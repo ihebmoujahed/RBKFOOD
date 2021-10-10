@@ -9,12 +9,6 @@ img {
     line-height: underline
 }
 
-
-
-
-
-
-
 div.Log {
     padding: 15px 25px;
     font-size: 24px;
@@ -22,8 +16,9 @@ div.Log {
     cursor: pointer;
     outline: none;
     color: rgb(14, 11, 11);
-    background-color: #576c906b;
     border: none;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRw9eVC419WvjnP9_zAQklz8vvX50-7VgwaQj89pH-S9SReGj&s);
+    background-size: cover;
     border-radius: 15px;
     box-shadow: 0 9px #999;
     margin-left: 27%;

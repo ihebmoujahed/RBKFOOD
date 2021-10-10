@@ -1,7 +1,6 @@
 body {
     background-image: url(https://cdn-media-1.freecodecamp.org/images/1*oIC7jzfYZde2T_Oo6DpI2Q.png);
-    background-size: cover;
-    
+    background-size: cover;   
 }
 img {
     width: 360px;
@@ -9,8 +8,6 @@ img {
     margin-left: 40%;
     line-height: underline
 }
-
-
     #bo1 {
       padding: 15px 25px;
       font-size: 24px;
@@ -25,36 +22,36 @@ img {
       margin-left:41%;
       margin-top: 90px;
     }
-   #bo1:hover {
-        background-color: #405d58}
-        #bo3 {
-          padding: 15px 25px;
-          font-size: 24px;
-          text-align: center;
-          cursor: pointer;
-          outline: none;
-          color: #fff;
-          background-color: #000f0a;
-          border: none;
-          border-radius: 15px;
-          box-shadow: 0 9px #999;
-          margin-left:41%;
-          margin-top: 90px;
-        }
-        #bo3: :hover{
-          background-color: #405d58}
+#bo1:hover {
+      background-color: #405d58}
+#bo3 {
+      padding: 15px 25px;
+      font-size: 24px;
+      text-align: center;
+      cursor: pointer;
+      outline: none;
+      color: #fff;
+      background-color: #000f0a;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      margin-left:41%;
+      margin-top: 90px;
+}
+#bo3:hover{
+       background-color: #405d58}
         
             
     
   
- #bo2:hover {
+#bo2:hover {
       background-color: #3e8e41}
-      #bo2:active {
-        background-color: #3e8e41;
-        box-shadow: 0 5px #666;
-        transform: translateY(4px);
-      }
-      #bo2 {
+#bo2:active {
+      background-color: #3e8e41;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+}
+#bo2 {
         padding: 15px 25px;
         font-size: 24px;
         text-align: center;
@@ -119,8 +116,8 @@ img {
                 margin-left:6%;
                 margin-top: 90px;
               }
-              #bo4: :hover{
-                background-color: #405d58}
+#bo4:hover{
+        background-color: #405d58}
                 .bo5 {
                   padding: 15px 25px;
                   font-size: 24px;
@@ -137,6 +134,6 @@ img {
                   position: relative;
                         top: 1;
                 }
-                .bo5: :hover{
+.bo5:hover{
                   background-color: #405d58}
               
