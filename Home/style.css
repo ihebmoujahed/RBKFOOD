@@ -9,27 +9,82 @@ img {
     margin-left: 40%;
     line-height: underline
 }
-h1 {
-    margin-left: 39%;
-    padding: 10px 18px;
-    font-family: "Lucida Console", "Courier New", monospace;
-    margin-top: 0px;
-    margin-top: 30px
-}
-form {
-    border: 5px solid rgba(255,255,255.3);
-    border-radius: 10px;
-    color: black;
-    text-align:center;
-    width: 199px;
-    height: 140px;
-    margin-left: 45%;
-    margin-top: 100px;
-}
-      
 
-button {
+
+    #bo1 {
+      padding: 15px 25px;
+      font-size: 24px;
+      text-align: center;
+      cursor: pointer;
+      outline: none;
+      color: #fff;
+      background-color: #000f0a;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      margin-left:41%;
+      margin-top: 90px;
+    }
+   #bo1:hover {
+        background-color: #3e8e41}
+        
     
-    padding: 14px 20px;
-}
+  
+ #bo2:hover {
+      background-color: #3e8e41}
+      #bo2:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+      #bo2 {
+        padding: 15px 25px;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #000f0a;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin-left: 4%;
+        position: absolute;
+        top: 54%;
+      }
+      #bo2:hover {
+          background-color: #3e8e41}
 
+          #in1 {
+            margin-left: -10%;
+            position: relative;
+            top: 62px;   
+        width: 300px;
+    height: 20px;     }
+          
+            #in2 {
+                margin-left: 40%;
+                position: relative;
+                top: 50px;    
+                width: 300px;
+                height: 20px;    }
+                #in3 {
+                    margin-left: 40%;
+                    position: relative;
+                    top: 55px;    
+                    width: 300px;
+                    height: 20px;    }
+                    #in4 {
+                        margin-left: 39.9%;
+                        position: relative;
+                        top: 55px;    
+                        width: 300px;
+                        height: 20px;    }
+                        
+                    
+               label {
+                display: flex;
+    margin-top: 26px;
+    margin-left: 443px;
+    font-size: 18px;
+              }
