@@ -15,6 +15,8 @@ if($('#bo2').hide(200)){
     $("#in4").show(200)
     $("label").show(200)
     $("#bo3").show(200)
+    $("#bo4").hide(200)
+    $(".bo5").hide(200)
 
     return
 }
@@ -22,5 +24,13 @@ if($('#bo2').hide(200)){
 
 function pageoff(){
     var url = "file:///C:/Users/INFOKOM/Desktop/RBKFOOD/Login/Login.html";
+$(location).attr('href',url);
+}
+function pageoff1(){
+    var url = "file:///C:/Users/INFOKOM/Desktop/RBKFOOD/Login/Login.html";
+$(location).attr('href',url);
+}
+function pageoff2(){
+    var url = "file:///C:/Users/INFOKOM/Desktop/RBKFOOD/FeedBack/FeedBack.html";
 $(location).attr('href',url);
 }

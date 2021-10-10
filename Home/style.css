@@ -41,6 +41,9 @@ img {
           margin-left:41%;
           margin-top: 90px;
         }
+        #bo3: :hover{
+          background-color: #405d58}
+        
             
     
   
@@ -102,3 +105,38 @@ img {
     margin-left: 443px;
     font-size: 18px;
               }
+              #bo4 {
+                padding: 15px 25px;
+                font-size: 24px;
+                text-align: center;
+                cursor: pointer;
+                outline: none;
+                color: #fff;
+                background-color: #000f0a;
+                border: none;
+                border-radius: 15px;
+                box-shadow: 0 9px #999;
+                margin-left:6%;
+                margin-top: 90px;
+              }
+              #bo4: :hover{
+                background-color: #405d58}
+                .bo5 {
+                  padding: 15px 25px;
+                  font-size: 24px;
+                  text-align: center;
+                  cursor: pointer;
+                  outline: none;
+                  color: #fff;
+                  background-color: #000f0a;
+                  border: none;
+                  border-radius: 15px;
+                  box-shadow: 0 9px #999;
+                  margin-left:-40%;
+                  margin-top: 7%;
+                  position: relative;
+                        top: 1;
+                }
+                .bo5: :hover{
+                  background-color: #405d58}
+              
